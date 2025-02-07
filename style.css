@@ -131,3 +131,7 @@ main{
     font-weight: bold;
     text-transform: capitalize;
 }
+.logo {
+    width: 200px;
+    height: auto;
+}
